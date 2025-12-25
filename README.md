@@ -1,3 +1,10 @@
+## Why Strapi is the Perfect Backend for Your React Native App
+
+**Description:**
+
+Discover how Strapi's headless CMS transforms React Native development with instant APIs, visual content management, and dynamic block-based pages.
+
+
 Building mobile apps with React Native is great for cross-platform development, but what about the backend? You need somewhere to store and manage your content - and that's where Strapi shines.
 
 ![react-native-gif.gif](https://deserving-harmony-9f5ca04daf.media.strapiapp.com/react_nativr_gif_bde6f97bd8.gif)
@@ -120,7 +127,9 @@ All without writing a single backend endpoint.
 
 Want to build this yourself? Check out our complete step-by-step tutorial:
 
-**[Building a React Native App with Expo and Strapi: A Complete Guide](/blog/building-a-react-native-app-with-expo-and-strapi-a-complete-guide)**
+TODO: Provide published article URL
+
+**[Building a React Native App with Expo and Strapi: A Complete Guide]()**
 
 The full tutorial covers:
 - Setting up Expo with NativeWind (Tailwind CSS)
